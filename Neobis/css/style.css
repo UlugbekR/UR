@@ -352,7 +352,7 @@ padding: 300px  9px 0 4px;
 
 
 
-@media(max-width: 800px){
+@media(max-width: 960px){
   *{transition: none}
  
 *{
